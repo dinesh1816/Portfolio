@@ -9,10 +9,10 @@ const Footer = () => {
         <h3>Sai Dineshchandra Devisetti</h3>
         <p>Full-stack Developer | Passionate about Software Development and Cloud Telephony</p>
         <div className="footer-links">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com" target="_blank" rel="https://www.linkedin.com/in/sai-dineshchandra-devisetti-84761619b">
             <FaLinkedin /> LinkedIn
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com" target="_blank" rel="https://github.com/dinesh1816?tab=repositories">
             <FaGithub /> GitHub
           </a>
           <a href="mailto:dineshdevisetti2000@gmail.com">

@@ -1,8 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
 import './About.css';
-=======
->>>>>>> 78da0dc (made all major changes)
 import Footer from './Footer'; // Import Footer
 
 const About = () => (
