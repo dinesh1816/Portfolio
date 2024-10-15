@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    min-height: 100%;
+    overflow: auto;
+  }
+  
+  section {
+    display: block;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  
+  .skills, .awards {
+    padding: 50px;
+    background-color: #fff;
+    color: #000;
+    min-height: 100vh;
+  }
+  

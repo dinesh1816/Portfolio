@@ -1,0 +1,45 @@
+.awards {
+  padding: 50px;
+  background-color: #323232;
+  color: #14ffec;
+  text-align: center;
+}
+
+.awards h2 {
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+
+.awards-list {
+  list-style: none;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.awards-list li {
+  margin-bottom: 20px;
+  background-color: #212121;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.awards-list h3 {
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+}
+
+.awards-list p {
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .awards {
+    padding: 30px;
+  }
+
+  .awards-list li {
+    padding: 10px;
+  }
+}

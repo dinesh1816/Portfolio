@@ -1,0 +1,21 @@
+.projects {
+    padding: 50px;
+    background-color: #323232;
+    color: #14ffec;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project-card {
+    background-color: #212121;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+  }
+  

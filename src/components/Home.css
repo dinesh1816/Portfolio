@@ -1,0 +1,19 @@
+.home {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #323232;
+    color: #14ffec;
+  }
+  
+  .cta-btn {
+    background-color: #0d7377;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
